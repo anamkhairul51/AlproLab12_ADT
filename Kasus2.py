@@ -28,3 +28,7 @@ clk.tampil_jam()
 clk.ubah_second()
 clk.alarm(5000)
 
+
+
+__author__ = 'A11201911712'
+
